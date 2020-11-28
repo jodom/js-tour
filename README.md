@@ -22,40 +22,17 @@ An introductory tour of modern JavaScript
 3. [JavaScript vs Python: Equivalents](https://dev.to/djangotricks/equivalents-in-python-and-javascript-part-3-4icc)
 
 **Topics**
-1. [Variables](./variables.md)
+1. [Variables](./0_variables.md)
+   
+2. [Operators](./1_operators.md)
 
-2. [Types](./types.md)
+3. [Types](./2_types.md)
 
-3. [Control Structures](./control.md)
+4. [Control Structures](./3_control.md)
 
-4. [Functions](./functions.md)
+5. [Functions](./4_functions.md)
 
-5. [Extras](./extras.md)
-
-### Supplementary Topics, Stuff. 🐣
-
-**Operators**
-
-We've been using a subset of these in the code snippets. For a comprehensive list, see [Expressions and operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators).
-
-**Typing**
-
-JS has *dynamic typing* - type checking is done at runtime rather than compile time. Compare to: *static typing*
-
-JS has *loose typing* - Freedom! You dont have to say a spade is a spade. A bucket can be a spade! Compare to: *strong typing*
-
-Look up
-- Type casting
-- Type coercion
-- Type coersion
-
-Enjoy talks on TypeScript, Flow... It'll save your life!
-
-**Structured Data**
-
-- Structuring data using [JSON](https://www.json.org/json-en.html), and spatial data using [GeoJSON](https://geojson.org/).
-
-Hint: These two data structues syntactically look like JavaScript, have JavaScript in the name, and have exactly nothing else to do with JavaScript 🤷🏾‍♂️
+6. [Extras](./5_extras.md)
 
 **For LoLs**
 
